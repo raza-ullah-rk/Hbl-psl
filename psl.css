@@ -144,8 +144,7 @@ detailstate{
 
   table {
     font-size: 14px;
-    width:270px;
-    height: 270px;
+    
   }
 th,td{
   font-size: 12px;
@@ -186,7 +185,9 @@ th,td{
   }
 
   table {
-    font-size: 18px;
+    font-size: 12px;
+    width:270px;
+    height: 270px;
   }
 
   #digits {

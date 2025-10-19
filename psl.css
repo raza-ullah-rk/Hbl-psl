@@ -145,13 +145,19 @@ detailstate{
   table {
     font-size: 14px;
   }
-
+th,td{
+  font-size: 12px;
+}
   #digits {
+    display: flex;
+    flex-direction: column;
     gap: 50px;
     font-size: 28px;
   }
 
   #state {
+    display: flex;
+    flex-direction: column;
     gap: 60px;
     font-size: 14px;
   }

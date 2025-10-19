@@ -183,7 +183,7 @@ th,td{
   font-size: 12px;
 }
 /* Tablet (481px – 768px) */
-/* @media (min-width: 321px) and (max-width: 768px) {
+ @media (min-width: 421px) {
   nav {
     flex-direction: row;
     flex-wrap: wrap;
@@ -209,4 +209,4 @@ th,td{
   #state {
     gap: 90px;
   }
-} */
+} 

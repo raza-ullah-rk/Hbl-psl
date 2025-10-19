@@ -143,7 +143,10 @@ detailstate{
   }
 
   table {
-    font-size: 14px;
+    margin-left: 25px;
+    font-size: 12px;
+    width:270px;
+    height: 270px;
     
   }
 th,td{
@@ -186,8 +189,7 @@ th,td{
 
   table {
     font-size: 12px;
-    width:270px;
-    height: 270px;
+    
   }
 
   #digits {

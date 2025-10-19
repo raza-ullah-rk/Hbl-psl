@@ -204,9 +204,12 @@ th,td{
 
   #digits {
     gap: 80px;
+    display: flex;
+    
   }
 
   #state {
     gap: 90px;
+    display: flex;
   }
 }

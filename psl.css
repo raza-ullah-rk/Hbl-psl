@@ -49,16 +49,18 @@ a{
 }
 .tbl table{ 
   display: flex;
-   justify-content: center; }
+   justify-content: center;
+  margin-left: 10% }
 table{ 
   width: 80%;
   border-collapse: collapse;
    text-align: center; 
-   font-size: 14px;
+   font-size: 24px;
     margin-bottom: 50px;
 }
 th,td{ border: 1px solid;
-     font-family: Arial, sans-serif; }
+     font-family: Arial, sans-serif; 
+}
 .detailstate{
     background: linear-gradient(135deg, #0b3b0b, #009933);
     color: white;
@@ -138,6 +140,9 @@ detailstate{
     gap: 20px;
     padding-top: 10px;
   }
+  .teamslogo{
+    margin-left: 80px;
+  }
 
   .sec1 img {
     width: 100%;
@@ -147,7 +152,7 @@ detailstate{
     font-size: 12px;
   }
   .tbl{
-    margin-left: 18%;
+    margin-left: 25%;
     width: 50%;
   }
 
@@ -200,6 +205,9 @@ th,td{
   table {
     font-size: 12px;
     
+  }
+  th,td{
+    font-size: 24px;
   }
 
   #digits {
